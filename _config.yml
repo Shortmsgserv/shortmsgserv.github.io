@@ -29,7 +29,7 @@ twitter_username: shortmsgserv
 github_username:  Shortmsgserv
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
